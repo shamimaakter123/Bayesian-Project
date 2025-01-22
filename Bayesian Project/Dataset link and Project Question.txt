@@ -1,0 +1,9 @@
+Dataset: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
+
+Project Questions:
+Research Question: How do various predictors (e.g., age, BMI, blood pressure, and serum measurements) influence diabetes progression, and how can Bayesian modelling improve predictive performance and uncertainty quantification?
+Proposed Models and Model Comparison:
+Model 1: Bayesian Linear Regression with appropriate priors for the predictors.
+Model 2: Bayesian Non-linear Regression using smoothing splines to capture complex relationships.
+Model Comparison: Models will be compared using WAIC and LOO-CV to evaluate their relative fit and predictive performance.
